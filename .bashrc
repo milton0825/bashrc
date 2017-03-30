@@ -120,4 +120,3 @@ alias mv='mv -i'
 alias ..='cd ..'
 alias h='history'
 
-alias linux='ssh ctsai@10.0.200.22'
